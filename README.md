@@ -1,4 +1,4 @@
-# PyTorch Implementation of # CSP DenseNet (for performance comparison in paper "Neural Network Application for Assessing Thyroid-Associated Orbitopathy Activity using Orbital Computed Tomography")
+# PyTorch Implementation of CSP DenseNet (for performance comparison in paper "Neural Network Application for Assessing Thyroid-Associated Orbitopathy Activity using Orbital Computed Tomography")
  
 The preprocessing and architecture can be referenced by a manuscript entitled, "CSPNet: A new backbone that can enhance learning capability of CNN." 
 
